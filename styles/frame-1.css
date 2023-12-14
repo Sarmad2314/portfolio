@@ -1,0 +1,919 @@
+
+html {
+	font-size:62.5%;
+  scroll-behavior: smooth;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 134.9rem;
+}
+.frame-1-cyT {
+  box-sizing: border-box;
+  padding-top: 1.7rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.frame-1-cyT .auto-group-ahhw-aoo {
+  margin: 0rem 15.6rem 0.9rem 9.1rem;
+  width: calc(100% - 24.7rem);
+  height: 5.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-ahhw-aoo .group-2-SzR {
+  margin: 0rem 1.132rem 0.905rem 0rem;
+  width: 3.5677rem;
+  height: 4.3951rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-ahhw-aoo .portfolio-wwB {
+  margin: 0.3rem 24.6rem 0rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.9692382812;
+  letter-spacing: 0.45rem;
+  color: #000000;
+  font-family: Koulen, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-ahhw-aoo .group-1-zuT {
+  margin: 0.5rem 0rem 0.8rem 0rem;
+  height: calc(100% - 1.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-ahhw-aoo .group-1-zuT .home-8Ey .home {
+  margin-right: 8.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.9692382812;
+  color: #000000;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  cursor: pointer;
+  text-decoration: none;
+}
+.frame-1-cyT .auto-group-ahhw-aoo .group-1-zuT .home-8Ey .home:hover{
+  color: #ee0000;
+  text-decoration: underline;
+}
+.frame-1-cyT .auto-group-ahhw-aoo .group-1-zuT .skills-rgm .skill {
+  margin-right: 9.3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.9692382812;
+  color: #000000;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  cursor: pointer;
+  text-decoration: none;
+}
+.frame-1-cyT .auto-group-ahhw-aoo .group-1-zuT .skills-rgm .skill:hover{
+  color: #ee0000;
+  text-decoration: underline;
+}
+.frame-1-cyT .auto-group-ahhw-aoo .group-1-zuT .work-beM .work {
+  margin-right: 8.8rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.9692382812;
+  color: #000000;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  cursor: pointer;
+  text-decoration: none;
+}
+.frame-1-cyT .auto-group-ahhw-aoo .group-1-zuT .work-beM .work:hover{
+  color: #ee0000;
+  text-decoration: underline;
+}
+.frame-1-cyT .auto-group-ahhw-aoo .group-1-zuT .about-XH7 .about {
+  margin-right: 8rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.9692382812;
+  color: #000000;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  cursor: pointer;
+  text-decoration: none;
+}
+.frame-1-cyT .auto-group-ahhw-aoo .group-1-zuT .about-XH7 .about:hover{
+  color: #ee0000;
+  text-decoration: underline;
+}
+.frame-1-cyT .auto-group-ahhw-aoo .group-1-zuT .contact-4H3 .contact {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.9692382812;
+  color: #000000;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  cursor: pointer;
+  text-decoration: none;
+}
+.frame-1-cyT .auto-group-ahhw-aoo .group-1-zuT .contact-4H3 .contact:hover{
+  color: #ee0000;
+  text-decoration: underline;
+}
+.frame-1-cyT .auto-group-a1t9-NYd {
+  box-sizing: border-box;
+  padding: 7.1rem 14.9rem 11.1rem 15.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-a1t9-NYd .auto-group-zdux-UrZ {
+  margin-bottom: 1.8rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-a1t9-NYd .auto-group-zdux-UrZ .auto-group-on6r-Dp9 {
+  margin-right: 6.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-a1t9-NYd .auto-group-zdux-UrZ .auto-group-on6r-Dp9 .auto-group-xkgz-xWq {
+  margin-bottom: 1.1rem;
+  width: 39.8rem;
+  height: 19.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-a1t9-NYd .auto-group-zdux-UrZ .auto-group-on6r-Dp9 .auto-group-xkgz-xWq .im-designer-sarmad-shabir-J4u {
+  width: 39.8rem;
+  height: 16.2rem;
+  position: absolute;
+  left: 0;
+  top: 3.4rem;
+  font-size: 5.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Merriweather, 'Source Sans Pro';
+}
+.frame-1-cyT .auto-group-a1t9-NYd .auto-group-zdux-UrZ .auto-group-on6r-Dp9 .auto-group-xkgz-xWq .get-every-single-solutions-JMj {
+  width: 26.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.9692382812;
+  color: #ff1919;
+  font-family: Nokora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-cyT .auto-group-a1t9-NYd .auto-group-zdux-UrZ .auto-group-on6r-Dp9 .designing-impactful-experiences-through-a-harmony-of-creative-flair-and-technological-finesse-my-portfolio-exhibits-captivating-visuals-and-efficient-development-ensuring-immersive-digital-experiences-bLq {
+  max-width: 63.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.9692382812;
+  color: #ffffff;
+  font-family: Nokora, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-a1t9-NYd .auto-group-zdux-UrZ .man-sits-desk-front-large-screen-that-says-word-search-it549702-4304-removebg-preview-1-dYR {
+  margin-bottom: 6.2rem;
+  width: 30.6rem;
+  height: 31.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+  animation: pulse 2s ease-in-out infinite;
+}
+
+/* Define the pulse animation */
+ /* @keyframes pulse {
+  0% {
+    transform: scale(1);
+    scroll-behavior: smooth;
+  }
+  100% {
+    transform: scale(1.1);
+    scroll-behavior: smooth;
+  }
+}  */
+.frame-1-cyT .auto-group-a1t9-NYd .auto-group-7cff-hoB {
+  margin-right: 46.1rem;
+  width: calc(100% - 46.1rem);
+  height: 5.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-a1t9-NYd .auto-group-7cff-hoB .auto-group-5a2h-qPb {
+  margin-right: 2.7rem;
+  width: 25.7rem;
+  height: 100%;
+  font-size: 2.1rem;
+  font-weight: 700;
+  line-height: 1.9692382812;
+  font-family: Open Sans Hebrew, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 21, 21, 0.85);
+  border-radius: 1rem;
+  flex-shrink: 0;
+  cursor: pointer;
+  transition: all 0.5s ease-out;
+}
+.frame-1-cyT .auto-group-a1t9-NYd .auto-group-7cff-hoB .auto-group-5a2h-qPb a{
+  text-decoration: none;
+  color: #ffffff;
+}
+.frame-1-cyT .auto-group-a1t9-NYd .auto-group-7cff-hoB .auto-group-5a2h-qPb:hover{
+  background-color: #bb0000;
+  transform: scale(1.05);
+}
+.frame-1-cyT .auto-group-a1t9-NYd .auto-group-7cff-hoB .auto-group-ripv-6qK {
+  width: 25.6rem;
+  height: 100%;
+  font-size: 2.1rem;
+  font-weight: 700;
+  line-height: 1.9692382812;
+  color: #ffffff;
+  font-family: Open Sans Hebrew, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #ee0000;
+  box-sizing: border-box;
+  border-radius: 1rem;
+  flex-shrink: 0;
+  cursor: pointer;
+  transition: all 0.5s ease-out;
+}
+.frame-1-cyT .auto-group-a1t9-NYd .auto-group-7cff-hoB .auto-group-ripv-6qK:hover{
+  color:#ff3232;
+  transform: scale(1.05);
+}
+.frame-1-cyT .auto-group-z87x-A4V {
+  box-sizing: border-box;
+  padding: 6.1rem 8.4rem 13.7rem 6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffeaea;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-z87x-A4V .technical-abilities-sUh {
+  margin: 0rem 0rem 6.1rem 2.4rem;
+  font-size: 5.2rem;
+  font-weight: 600;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Kreon, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-z87x-A4V .auto-group-b92d-NwF {
+  margin: 0rem 5.4rem 1.5rem 4.6rem;
+  width: calc(100% - 10rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-z87x-A4V .auto-group-b92d-NwF .c-language-4JH {
+  margin: 0.4rem 15rem 0rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.135;
+  color: #000000;
+  font-family: Kulim Park, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-z87x-A4V .auto-group-b92d-NwF .ui-ux-design-As7 {
+  margin-right: 12.8rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.135;
+  color: #000000;
+  font-family: Kulim Park, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-z87x-A4V .auto-group-b92d-NwF .frontend-development-h6M {
+  margin-right: 12.9rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.135;
+  color: #000000;
+  font-family: Kulim Park, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-z87x-A4V .auto-group-b92d-NwF .database-RY9 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.135;
+  color: #000000;
+  font-family: Kulim Park, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-z87x-A4V .auto-group-d2s7-mM7 {
+  margin: 0rem 4.3rem 1.4rem 5.6rem;
+  width: calc(100% - 9.9rem);
+  height: 12.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-z87x-A4V .auto-group-d2s7-mM7 .auto-group-qbed-68V {
+  margin-right: 23.3rem;
+  width: 72.9rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-z87x-A4V .auto-group-d2s7-mM7 .auto-group-qbed-68V .group-3-dPK {
+  width: 72.9rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.frame-1-cyT .auto-group-z87x-A4V .auto-group-d2s7-mM7 .auto-group-qbed-68V .group-3-dPK .pluslogocicon214621-1-Au3 {
+  margin-right: 51.9rem;
+  width: 11.6rem;
+  height: 12.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-z87x-A4V .auto-group-d2s7-mM7 .auto-group-qbed-68V .group-3-dPK .frontend-icon-6-1-VwK {
+  width: 9.4rem;
+  height: 9.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-z87x-A4V .auto-group-d2s7-mM7 .auto-group-qbed-68V .png-clipart-logo-user-interface-design-user-experience-design-design-user-interface-design-label-thumbnail-removebg-preview-1-SLm {
+  width: 11.1rem;
+  height: 12.4rem;
+  position: absolute;
+  left: 31.5rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-cyT .auto-group-z87x-A4V .auto-group-d2s7-mM7 .database-computer-icons-microsoft-sql-server-clip-art-database-removebg-preview-1-1-hXb {
+  margin-bottom: 0.2rem;
+  width: 9.8rem;
+  height: 9.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+  margin-left: -15px;
+}
+.frame-1-cyT .auto-group-z87x-A4V .auto-group-kscq-12V {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-z87x-A4V .auto-group-kscq-12V .exploring-basic-concepts-of-data-structures-and-algorithms-using-c-for-program-development-kVs {
+  margin-right: 7.3rem;
+  max-width: 23.9rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.135;
+  color: #000000;
+  font-family: Kulim Park, 'Source Sans Pro';
+  flex-shrink: 0;
+  text-align: center;
+}
+.frame-1-cyT .auto-group-z87x-A4V .auto-group-kscq-12V .exploring-ui-ux-design-principles-to-create-user-friendly-interfaces-for-basic-digital-experiences-Sdb {
+  margin-right: 7rem;
+  max-width: 24.2rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.135;
+  color: #000000;
+  font-family: Kulim Park, 'Source Sans Pro';
+  flex-shrink: 0;
+  text-align: center;
+}
+.frame-1-cyT .auto-group-z87x-A4V .auto-group-kscq-12V .developing-foundational-skills-in-html-css-and-javascript-for-creating-basic-web-interfaces-jsb {
+  margin-right: 7.9rem;
+  max-width: 23.3rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.135;
+  color: #000000;
+  font-family: Kulim Park, 'Source Sans Pro';
+  flex-shrink: 0;
+  text-align: center;
+}
+.frame-1-cyT .auto-group-z87x-A4V .auto-group-kscq-12V .acquiring-sql-fundamentals-for-basic-database-management-and-organization-2rh {
+  max-width: 22.3rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.135;
+  color: #000000;
+  font-family: Kulim Park, 'Source Sans Pro';
+  flex-shrink: 0;
+  text-align: center;
+  margin-right: -10px;
+}
+.frame-1-cyT .auto-group-x28m-893 {
+  box-sizing: border-box;
+  padding: 6.1rem 5.9rem 10.9rem 6rem;
+  width: 100%;
+  height: 60.6rem;
+  display: flex;
+  column-gap: 6.4rem;
+  align-items: center;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+
+/*image 1 of project*/
+.frame-1-cyT .auto-group-x28m-893 .rectangle-9-2VK {
+  margin-top: 14.9rem;
+  width: 24.8rem;
+  height: 28.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.image-container1 {
+  position: relative;
+  display: inline-block;
+}
+.overlay1 {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Adjust opacity here */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  border-radius: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.image-container1:hover .overlay1 {
+  opacity: 1.8;
+}
+
+.overlay-text1 {
+  color: white;
+  font-size: 1.9rem;
+  padding: 20px;
+  display: none;
+  animation: fadeInFromBottom 0.5s ease-in-out forwards;
+  text-shadow: 2px 2px black;
+  font-family: Kulim Park, 'Source Sans Pro';
+}
+
+@keyframes fadeInFromBottom {
+  from {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(10px);
+  }
+}
+
+.image-container1:hover .overlay-text1 {
+  display: block;
+}
+
+.frame-1-cyT .auto-group-x28m-893 .auto-group-gsem-YiZ {
+  width: 56rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-x28m-893 .auto-group-gsem-YiZ .accomplishments-Vth {
+  margin: 0rem 0.1rem 8.3rem 0rem;
+  font-size: 5.2rem;
+  font-weight: 600;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Kreon, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-x28m-893 .auto-group-gsem-YiZ .auto-group-u1w5-ciR {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+/*image 2 of project*/
+.frame-1-cyT .auto-group-x28m-893 .auto-group-gsem-YiZ .auto-group-u1w5-ciR .rectangle-10-mLR {
+  margin-right: 6.4rem;
+  width: 24.8rem;
+  height: 28.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.image-container2 {
+  position: relative;
+  display: inline-block;
+}
+.overlay2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Adjust opacity here */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  border-radius: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.image-container2:hover .overlay2 {
+  opacity: 1.8;
+}
+
+.overlay-text2 {
+  color: white;
+  font-size: 2rem;
+  padding: 20px;
+  display: none;
+  animation: fadeInFromBottom 0.5s ease-in-out forwards;
+  text-shadow: 2px 2px black;
+  font-family: Kulim Park, 'Source Sans Pro';
+}
+
+@keyframes fadeInFromBottom {
+  from {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(10px);
+  }
+}
+
+.image-container2:hover .overlay-text2 {
+  display: block;
+}
+
+
+/*image 3 of project*/
+.frame-1-cyT .auto-group-x28m-893 .auto-group-gsem-YiZ .auto-group-u1w5-ciR .rectangle-11-tvq {
+  width: 24.8rem;
+  height: 28.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+  cursor: pointer;
+  animation: zoomIn 1.2s ease forwards;
+}
+.image-container3 {
+  position: relative;
+  display: inline-block;
+}
+.overlay3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Adjust opacity here */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  border-radius: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.image-container3:hover .overlay3 {
+  opacity: 1.8;
+}
+
+.overlay-text3 {
+  color: white;
+  font-size: 2rem;
+  padding: 20px;
+  display: none;
+  animation: fadeInFromBottom 0.5s ease-in-out forwards;
+  text-shadow: 2px 2px black;
+  font-family: Kulim Park, 'Source Sans Pro';
+}
+
+@keyframes fadeInFromBottom {
+  from {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(10px);
+  }
+}
+
+.image-container3:hover .overlay-text3 {
+  display: block;
+}
+
+/*image 4 of project*/
+.frame-1-cyT .auto-group-x28m-893 .rectangle-12-EE1 {
+  margin-top: 14.9rem;
+  width: 24.8rem;
+  height: 28.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+  cursor: pointer;
+  animation: zoomIn 1.2s ease forwards;
+}
+.image-container4 {
+  position: relative;
+  display: inline-block;
+}
+.overlay4 {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Adjust opacity here */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  border-radius: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.image-container4:hover .overlay4 {
+  opacity: 1.8;
+}
+
+.overlay-text4 {
+  color: white;
+  font-size: 2rem;
+  padding: 20px;
+  display: none;
+  animation: fadeInFromBottom 0.5s ease-in-out forwards;
+  text-shadow: 2px 2px black;
+  font-family: Kulim Park, 'Source Sans Pro';
+}
+
+@keyframes fadeInFromBottom {
+  from {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(10px);
+  }
+}
+
+.image-container4:hover .overlay-text4 {
+  display: block;
+}
+
+.frame-1-cyT .auto-group-xthx-Lnq {
+  box-sizing: border-box;
+  padding-left: 0.1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-xthx-Lnq .auto-group-cgb7-tZT {
+  box-sizing: border-box;
+  padding: 7.8rem 6.5rem 14.7rem 8.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffeaea;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-xthx-Lnq .auto-group-cgb7-tZT .rectangle-14-pi1 {
+  margin: 0rem 7.4rem 5.6rem 0rem;
+  width: 28.7rem;
+  height: 27.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 3.7rem;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-xthx-Lnq .auto-group-cgb7-tZT .auto-group-eaxp-jpy {
+  margin-top: 3.1rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-xthx-Lnq .auto-group-cgb7-tZT .auto-group-eaxp-jpy .hello-its-nice-to-see-you-here-Ga1 {
+  margin: 0rem 0rem 0.6rem 0.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7075;
+  color: #1d1d1d;
+  font-family: Khmer, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-xthx-Lnq .auto-group-cgb7-tZT .auto-group-eaxp-jpy .about-me-xhj {
+  margin-bottom: 0.5rem;
+  font-size: 6.8rem;
+  font-weight: 600;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Kreon, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-xthx-Lnq .auto-group-cgb7-tZT .auto-group-eaxp-jpy .hi-there-im-sarmad-shabir-studying-computer-science-at-nust-islamabad-i-love-designing-and-making-websites-and-apps-i-enjoy-creating-easy-to-use-designs-and-also-learning-how-to-code-to-make-cool-digital-stuff-i-mix-my-creativity-with-technical-skills-to-make-websites-and-apps-frontend-designs-that-people-enjoy-using-feel-free-to-check-out-my-work-and-see-how-i-combine-design-and-tech-hQR {
+  max-width: 79.3rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #0f0f0f;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+  text-align: justify;
+}
+.frame-1-cyT .auto-group-xthx-Lnq .auto-group-nrid-E2y {
+  box-sizing: border-box;
+  padding: 5rem 15.8rem 5rem 12.1rem;
+  width: 134.8rem;
+  height: 30.4rem;
+  display: flex;
+  align-items: center;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-xthx-Lnq .auto-group-nrid-E2y .sarmads-developer-portfolio-vRb {
+  margin: 0rem 9.4rem 7.1rem 0rem;
+  max-width: 24.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.55;
+  color: #ffffff;
+  font-family: Laila, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-xthx-Lnq .auto-group-nrid-E2y .line-3-D9o {
+  margin: 0rem 10.3rem 5.399rem 0rem;
+  width: 0.2rem;
+  height: 15.0013rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-xthx-Lnq .auto-group-nrid-E2y .home-skills-work-about-Vt1 {
+  margin: 0rem 14.7rem 7.1rem 0rem;
+  max-width: 6.5rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2041761398;
+  letter-spacing: 0.18rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+  padding: 5px;
+}
+.frame-1-cyT .auto-group-xthx-Lnq .auto-group-nrid-E2y .home-skills-work-about-Vt1 a{
+  text-decoration: none;
+  color: white;
+}
+.frame-1-cyT .auto-group-xthx-Lnq .auto-group-nrid-E2y .home-skills-work-about-Vt1 a:hover{
+  color: rgb(185, 185, 185);
+  text-decoration: underline;
+}
+.frame-1-cyT .auto-group-xthx-Lnq .auto-group-nrid-E2y .line-4-aeZ {
+  margin: 0rem 6.125rem 5.399rem 0rem;
+  width: 0.2rem;
+  height: 15.0013rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-xthx-Lnq .auto-group-nrid-E2y .auto-group-j7b3-tv9 {
+  margin: 0rem 2.525rem 7.25rem 0rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-xthx-Lnq .auto-group-nrid-E2y .auto-group-j7b3-tv9 .material-symbols-call-RfB {
+  margin: 0rem 0.1rem 3.35rem 0rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-xthx-Lnq .auto-group-nrid-E2y .auto-group-j7b3-tv9 .ic-baseline-email-8Zb {
+  width: 3.25rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-xthx-Lnq .auto-group-nrid-E2y .auto-group-9ryd-fJd {
+  margin-bottom: 6.9rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-xthx-Lnq .auto-group-nrid-E2y .auto-group-9ryd-fJd .item-923421228684-cjf {
+  margin-bottom: 3.7rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2041761398;
+  letter-spacing: 0.18rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-xthx-Lnq .auto-group-nrid-E2y .auto-group-9ryd-fJd .sslashareegmailcom-vEZ {
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2041761398;
+  letter-spacing: 0.18rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-cyT .auto-group-bkx1-q6d {
+  width: 134.8rem;
+  height: 4.9rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2041761398;
+  letter-spacing: 0.18rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0a0a0a;
+  flex-shrink: 0;
+}
